@@ -1,1 +1,8 @@
-
+{
+  "version": "1.2.0",
+  "main_process": "orbit.exe",
+  "release_base_url": "https://github.com/chezzakowo/orbit/releases/latest/download/",
+  "files": [
+    "orbit.exe"
+  ]
+}
